@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '31895'
     url: http://www.gutenberg.org/2009/agents/31895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28672#The-Christian-Foundation-Or-Scientific-and-Religious-Journal-Volume-I-No.-9.-September-1880
 gutenberg_bookshelf: The Christian Foundation
 gutenberg_issued: '2009-05-03'
 gutenberg_type: Text
